@@ -26,27 +26,27 @@ Analiza uključuje više grafičkih prikaza:
 1. Scatter graf temperature i udjela vode:
    Omogućuje uvid u potencijalnu korelaciju između temperature tla i prisutnosti vode, uz dodatnu klasifikaciju prema metanu.
 
-   <img scr="assets/graf1_temperatura_voda (1).png" widh="500">
+   <img src="assets/graf1_temperatura_voda (1).png" widh="500">
 
 3. Karta dubine bušenja:
    Vizualizira raspodjelu dubine uzorkovanja pomoću kolor mape, čime se identificiraju zone s dubljim analizama.
 
-   <img scr="assets/graf2_karta_dubine.png" widh="500">
+   <img src="assets/graf2_karta_dubine.png" widh="500">
 
 5. Distribucija metana:
    Prikazuje prostornu raspodjelu pozitivnih i negativnih detekcija metana, što je ključno za detekciju potencijalnih bioloških ili geokemijskih aktivnosti.
 
-   <img scr="assets/graf3_metan.png" widh="500">
+   <img src="assets/graf3_metan.png" widh="500">
 
 7. Karta kandidata:
    Ističe lokacije gdje su istovremeno detektirani metan i organske molekule. Takve točke označene su kao prioritetne za daljnje istraživanje.
 
-   <img scr="assets/karta_kandidata.png" widh="500">
+   <img src="assets/karta_kandidata.png" widh="500">
 
 9. Satelitska mapa (EXTENT mapiranje):
    Satelitska slika je georeferencirana korištenjem minimalnih i maksimalnih GPS koordinata iz skupa podataka. Parametar “extent” omogućuje preslikavanje slike u stvarni koordinatni sustav, čime se podaci precizno pozicioniraju na kartu. Ovaj pristup omogućuje pouzdanu orijentaciju robota u stvarnom prostoru.
 
-   <img scr="assets/misijska_karta_jezero.jpg" widh="500">
+   <img src="assets/misijska_karta_jezero.jpg" widh="500">
 
 
 D. KOMUNIKACIJSKI PROTOKOL (JSON UPLINK)
